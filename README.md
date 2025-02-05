@@ -1,6 +1,12 @@
+![](https://github.com/muntasirmahmud1/OFAM_IEEE_Sensors_Journal/blob/f4709b1624f358a9d6e091709a03a738991776d1/images/IEEE_Sensors_Journal.png)
+
 # Training and Demodulation Steps
 
 ![image alt](https://github.com/muntasirmahmud1/OFAM_IEEE_Sensors_Journal/blob/5cb23ee24873a32c917a2caeacd15ce86d15cf17/images/Figure_4_svg.svg)
+
+# Symbol Detection Accuracy
+
+![](https://github.com/muntasirmahmud1/OFAM_IEEE_Sensors_Journal/blob/f4709b1624f358a9d6e091709a03a738991776d1/images/symbol%20detection%20accuracy.png)
 
 # Cite
 
